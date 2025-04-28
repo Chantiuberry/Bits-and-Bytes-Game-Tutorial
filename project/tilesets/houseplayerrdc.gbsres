@@ -1,0 +1,11 @@
+{
+  "_resourceType": "tileset",
+  "id": "bf538200-0299-4634-952b-599a10da279e",
+  "name": "HousePlayerRDC",
+  "symbol": "tileset_houseplayerrdc",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "HousePlayerRDC.png"
+}

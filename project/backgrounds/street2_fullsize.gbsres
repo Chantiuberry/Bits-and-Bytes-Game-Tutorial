@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "96659ad8-c9c9-45e0-b9b3-d14d7ec5ead1",
+  "name": "Street2 FullSize",
+  "symbol": "bg_street2_fullsize",
+  "width": 32,
+  "height": 32,
+  "imageWidth": 256,
+  "imageHeight": 256,
+  "filename": "Street2 FullSize.png",
+  "tileColors": ""
+}

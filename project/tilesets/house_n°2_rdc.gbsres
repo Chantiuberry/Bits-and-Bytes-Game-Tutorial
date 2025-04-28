@@ -1,0 +1,11 @@
+{
+  "_resourceType": "tileset",
+  "id": "fd280229-d073-41d6-95eb-f9892735ab47",
+  "name": "House N°2 RDC",
+  "symbol": "tileset_house_n_2_rdc",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "House N°2 RDC.png"
+}

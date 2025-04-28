@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "4d7584da-4f6d-4dc8-a0d6-af5b7414b6e0",
+  "name": "HousePlayerRDC",
+  "symbol": "bg_houseplayerrdc",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "HousePlayerRDC.png",
+  "tileColors": ""
+}

@@ -1,0 +1,11 @@
+{
+  "_resourceType": "tileset",
+  "id": "e2375dab-6d5a-4399-8a28-16bcefb50511",
+  "name": "House N°2 1stFloor",
+  "symbol": "tileset_house_n_2_1stfloor",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "House N°2 1stFloor.png"
+}

@@ -1,0 +1,11 @@
+{
+  "_resourceType": "tileset",
+  "id": "cbe398b2-aaee-4a01-a477-51ef0b2ca103",
+  "name": "Restaurant",
+  "symbol": "tileset_restaurant",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "Restaurant.png"
+}

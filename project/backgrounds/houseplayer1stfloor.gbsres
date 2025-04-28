@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "60745f61-3b21-45d8-9d64-c9a5cfd567d9",
+  "name": "HousePlayer1stFloor",
+  "symbol": "bg_houseplayer1stfloor",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "HousePlayer1stFloor.png",
+  "tileColors": ""
+}

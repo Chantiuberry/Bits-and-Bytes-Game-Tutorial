@@ -1,0 +1,11 @@
+{
+  "_resourceType": "tileset",
+  "id": "ac68ef47-9ed9-41ac-a92e-7accdd12cff6",
+  "name": "HousePlayer1stFloor",
+  "symbol": "tileset_houseplayer1stfloor",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "HousePlayer1stFloor.png"
+}

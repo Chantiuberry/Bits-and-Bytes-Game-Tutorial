@@ -1,0 +1,11 @@
+{
+  "_resourceType": "tileset",
+  "id": "12acd7b9-e18b-464d-98c5-72329d670c4e",
+  "name": "Shop",
+  "symbol": "tileset_shop",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "Shop.png"
+}

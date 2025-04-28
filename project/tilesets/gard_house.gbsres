@@ -1,0 +1,11 @@
+{
+  "_resourceType": "tileset",
+  "id": "9a436fa4-4c13-4c88-9518-98e58c340c5c",
+  "name": "Gard House",
+  "symbol": "tileset_gard_house",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "Gard House.png"
+}

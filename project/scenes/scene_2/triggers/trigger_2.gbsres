@@ -1,0 +1,25 @@
+{
+  "_resourceType": "trigger",
+  "id": "aecafbb9-1e46-4d43-832a-e3abd17b4262",
+  "name": "",
+  "prefabId": "",
+  "x": 14,
+  "y": 12,
+  "symbol": "trigger_4",
+  "prefabScriptOverrides": {},
+  "width": 2,
+  "height": 2,
+  "script": [
+    {
+      "command": "EVENT_ACTOR_SET_STATE",
+      "args": {
+        "actorId": "$self$",
+        "spriteStateId": "Jumping",
+        "loopAnim": true
+      },
+      "id": "4f22fc35-c598-45eb-9dce-cd5b62c2c427"
+    }
+  ],
+  "leaveScript": [],
+  "_index": 1
+}

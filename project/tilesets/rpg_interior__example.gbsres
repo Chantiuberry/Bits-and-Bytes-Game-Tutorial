@@ -1,0 +1,11 @@
+{
+  "_resourceType": "tileset",
+  "id": "a39ff22b-4f53-4b79-bfd5-6d8cad3c1d13",
+  "name": "RPG_interior _example",
+  "symbol": "tileset_rpg_interior_exampl",
+  "width": 40,
+  "height": 18,
+  "imageWidth": 320,
+  "imageHeight": 144,
+  "filename": "RPG_interior _example.png"
+}

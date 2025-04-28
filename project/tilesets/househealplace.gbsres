@@ -1,0 +1,11 @@
+{
+  "_resourceType": "tileset",
+  "id": "89b7659a-0c03-41c8-8740-b3e811d9e1ed",
+  "name": "HouseHealPlace",
+  "symbol": "tileset_househealplace",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "HouseHealPlace.png"
+}

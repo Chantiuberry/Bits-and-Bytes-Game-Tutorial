@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "86efa17b-4948-43f8-83b0-36e575af01f2",
+  "name": "Restaurant",
+  "symbol": "bg_restaurant",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "Restaurant.png",
+  "tileColors": ""
+}

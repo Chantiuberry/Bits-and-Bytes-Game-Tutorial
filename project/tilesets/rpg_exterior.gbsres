@@ -1,0 +1,11 @@
+{
+  "_resourceType": "tileset",
+  "id": "d1a10100-5386-4423-8232-04b0f84b740d",
+  "name": "RPG_exterior",
+  "symbol": "tileset_rpg_exterior",
+  "width": 24,
+  "height": 17,
+  "imageWidth": 192,
+  "imageHeight": 136,
+  "filename": "RPG_exterior.png"
+}

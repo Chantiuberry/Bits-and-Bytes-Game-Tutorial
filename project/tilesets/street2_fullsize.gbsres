@@ -1,0 +1,11 @@
+{
+  "_resourceType": "tileset",
+  "id": "ce8e94b2-c622-4a09-9ce9-9967135b7a0d",
+  "name": "Street2 FullSize",
+  "symbol": "tileset_street2_fullsize",
+  "width": 32,
+  "height": 32,
+  "imageWidth": 256,
+  "imageHeight": 256,
+  "filename": "Street2 FullSize.png"
+}

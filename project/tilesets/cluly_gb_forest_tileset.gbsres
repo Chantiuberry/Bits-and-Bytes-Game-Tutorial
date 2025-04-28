@@ -1,0 +1,11 @@
+{
+  "_resourceType": "tileset",
+  "id": "2742485c-5e66-493e-98ba-20e6b76f087b",
+  "name": "Cluly_GB_Forest_Tileset",
+  "symbol": "tileset_cluly_gb_forest_til",
+  "width": 16,
+  "height": 17,
+  "imageWidth": 128,
+  "imageHeight": 136,
+  "filename": "Cluly_GB_Forest_Tileset.png"
+}

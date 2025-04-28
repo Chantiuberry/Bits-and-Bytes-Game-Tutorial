@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "259be524-2e03-4e5c-aaac-99cbd5e545f4",
+  "name": "HouseHealPlace",
+  "symbol": "bg_househealplace",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "HouseHealPlace.png",
+  "tileColors": ""
+}

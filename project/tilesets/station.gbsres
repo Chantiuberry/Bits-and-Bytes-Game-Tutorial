@@ -1,0 +1,11 @@
+{
+  "_resourceType": "tileset",
+  "id": "ee537019-106b-4a12-8793-1654bc2a6396",
+  "name": "Station",
+  "symbol": "tileset_station",
+  "width": 32,
+  "height": 32,
+  "imageWidth": 256,
+  "imageHeight": 256,
+  "filename": "Station.png"
+}

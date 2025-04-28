@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "fcd6c6bd-37a8-4aba-bd0c-b11e10c91c56",
+  "name": "Station",
+  "symbol": "bg_station",
+  "width": 32,
+  "height": 32,
+  "imageWidth": 256,
+  "imageHeight": 256,
+  "filename": "Station.png",
+  "tileColors": ""
+}

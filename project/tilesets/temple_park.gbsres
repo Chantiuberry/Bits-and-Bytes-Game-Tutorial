@@ -1,0 +1,11 @@
+{
+  "_resourceType": "tileset",
+  "id": "d374b8a8-4ce0-4bc2-a1c9-f2ab31a706f8",
+  "name": "Temple Park",
+  "symbol": "tileset_temple_park",
+  "width": 32,
+  "height": 32,
+  "imageWidth": 256,
+  "imageHeight": 256,
+  "filename": "Temple Park.png"
+}

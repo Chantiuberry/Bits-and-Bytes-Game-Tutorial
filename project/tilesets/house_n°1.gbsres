@@ -1,0 +1,11 @@
+{
+  "_resourceType": "tileset",
+  "id": "9531f0f3-45f2-4e1a-bb0c-48ecaf0da237",
+  "name": "House N°1",
+  "symbol": "tileset_house_n_1",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "House N°1.png"
+}

@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "32dfcb5c-b388-453d-a9c4-c3c13df1251a",
+  "name": "Temple Park",
+  "symbol": "bg_temple_park",
+  "width": 32,
+  "height": 32,
+  "imageWidth": 256,
+  "imageHeight": 256,
+  "filename": "Temple Park.png",
+  "tileColors": ""
+}
